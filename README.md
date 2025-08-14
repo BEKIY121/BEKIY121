@@ -11,8 +11,8 @@ Full-stack developer passionate about creating scalable, maintainable, and user-
 ## 🚀 Featured Projects
 | Project | Description | Tech |
 |---------|-------------|------|
-| **Awesome App** | Cross-platform mobile app for [purpose] | Flutter, Django |
-| **Web Portal** | Scalable web application for [purpose] | MERN, Laravel |
+| **Awesome App** | Cross-platform mobile app for ECAB Transport | Flutter, Django |
+| **Web Portal** | Scalable web application for Vtech Plc | MERN, Laravel |
 | **WordPress Custom Site** | Custom CMS-driven website | WordPress, PHP |
 
 ## 🌟 Highlights
