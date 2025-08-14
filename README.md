@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hello, I'm Beki Kusha  
+Full-stack developer passionate about creating scalable, maintainable, and user-friendly applications across mobile and web platforms.
 
-<!--
-**BEKIY121/BEKIY121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Skills
+- **Mobile Development:** Java (Android), Flutter  
+- **Backend:** Python (Django), PHP (Laravel)  
+- **Frontend:** MERN Stack (MongoDB, Express.js, React.js, Node.js)  
+- **CMS & Web:** WordPress  
+- **Other:** Basics of C++, Core Java, API Integration, Database Design  
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
+| Project | Description | Tech |
+|---------|-------------|------|
+| **Awesome App** | Cross-platform mobile app for [purpose] | Flutter, Django |
+| **Web Portal** | Scalable web application for [purpose] | MERN, Laravel |
+| **WordPress Custom Site** | Custom CMS-driven website | WordPress, PHP |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Highlights
+- Experienced in **full-stack development**, from architecture to deployment  
+- Focus on **clean, maintainable, and performant code**  
+- Open-source contributor and always learning **new technologies**  
+
+
+## 📫 Connect with me
+
+- Email: Beki.kusha03@gmail.com
+- LinkedIn: https://www.linkedin.com/in/beki-k-9360622b7/
